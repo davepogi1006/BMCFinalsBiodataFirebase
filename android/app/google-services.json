@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172394982040",
+    "project_id": "my-biodara",
+    "storage_bucket": "my-biodara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172394982040:android:cf08f13d4250eb81ac7eed",
+        "android_client_info": {
+          "package_name": "com.example.biodata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByAIWhHBM76J9PogJl66wjIvdBgcLJF2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
